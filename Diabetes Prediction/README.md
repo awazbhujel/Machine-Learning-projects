@@ -1,4 +1,4 @@
-#Diabetes Prediction
+## Diabetes Prediction
 
 <p align="center">
   <img src="https://github.com/awazbhujel/Machine-Learning-projects/blob/main/Diabetes%20Prediction/diabetes-banner.png"  title="hover text">
