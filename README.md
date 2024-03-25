@@ -4,3 +4,4 @@
 
 # 2.Heart Disease Prediction : https://github.com/awazbhujel/Machine-Learning-projects/tree/main/Heart%20Disease%20Prediction
 
+# 3.Customer Segmentation : https://github.com/awazbhujel/Machine-Learning-projects/tree/main/Customer%20Segmentation
